@@ -524,6 +524,6 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
-  <project path="device/Xiaomi/HM2014011" name="ferhung-mtk/android_device_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="device/BQ/Krillin" name="Pablito2020/android_device_bq_Aquaris_E4.5" revision="master" />
   <project path="vendor/Xiaomi/HM2014011" name="ferhung-mtk/android_vendor_Xiaomi_HM2014011" revision="cm-13.0" />
 </manifest>
